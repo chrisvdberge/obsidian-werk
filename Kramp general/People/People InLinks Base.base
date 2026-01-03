@@ -1,0 +1,39 @@
+properties:
+  file.fullname:
+    displayName: file name
+views:
+  - type: table
+    name: AllPeople
+    filters:
+      and:
+        - "!name.isEmpty()"
+    order:
+      - name
+      - role
+      - department
+      - manager
+    sort:
+      - property: file.basename
+        direction: DESC
+      - property: name
+        direction: ASC
+    columnSize:
+      note.name: 147
+      note.role: 261
+  - type: table
+    name: Gerrit Cazemier
+    filters:
+      and:
+        - file.hasLink("Kramp general/People/Gerrit Cazemier")
+    order:
+      - created
+      - file.name
+  - type: table
+    name: View
+  - type: table
+    name: Ireen
+    filters:
+      and:
+        - file.hasLink("Ireen Rempt")
+  - type: table
+    name: Inlinks

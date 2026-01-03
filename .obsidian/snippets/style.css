@@ -1,0 +1,61 @@
+.table-view-table tr {
+    border-bottom: 1px solid;
+}
+
+/* standaard interne links */
+.markdown-preview-view a.internal-link,
+.markdown-source-view a.internal-link {
+  color: inherit !important;           /* zelfde kleur als omringende tekst */
+  text-decoration: underline !important;
+  text-underline-offset: 2px;          /* ietsje ruimte onder tekst */
+}
+
+/* hover-kleur blijft neutraal */
+.markdown-preview-view a.internal-link:hover,
+.markdown-source-view a.internal-link:hover {
+  color: inherit !important;
+  text-decoration: underline !important;
+  opacity: 0.85;                       /* optioneel subtiel effect */
+}
+
+/* verwijder eventuele box- of background-effects van Simple theme */
+a.internal-link {
+  background: none !important;
+  box-shadow: none !important;
+}
+
+/* --- Minimal theme: precise heading spacing control --- */
+
+/* Reset global block spacing to remove unwanted gaps */
+.markdown-preview-view.is-readable-line-width > * + * {
+  margin-block-start: 0 !important;
+}
+.markdown-preview-view.is-readable-line-width {
+  --p-spacing: 0 !important;
+}
+
+/* --- Tight spacing under lower headings (H3–H6) --- */
+.markdown-preview-view :is(h3,h4,h5,h6) {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.markdown-preview-view :is(h3,h4,h5,h6) + * {
+  margin-top: 0 !important;
+}
+
+/* --- Medium spacing under section headings (H2) --- */
+.markdown-preview-view h2 {
+  margin-bottom: 0.4em !important;   /* space after the heading */
+}
+.markdown-preview-view h2 + * {
+  margin-top: 0.4em !important;
+}
+
+/* --- Slightly more for big top-level headings (H1) --- */
+.markdown-preview-view h1 {
+  margin-top: 1.2em !important;
+  margin-bottom: 0.6em !important;
+}
+.markdown-preview-view h1 + * {
+  margin-top: 0.6em !important;
+}

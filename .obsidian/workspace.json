@@ -1,0 +1,579 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/findings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "findings"
+            }
+          },
+          {
+            "id": "81d277cc8c606cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/findings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "findings"
+            }
+          },
+          {
+            "id": "c074fde67cd6cd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kramp general/Kramp abbreviations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kramp abbreviations"
+            }
+          },
+          {
+            "id": "5724040750e70ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Findability Painpoints Survey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Findability Painpoints Survey"
+            }
+          },
+          {
+            "id": "cd1718f5014150a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-02-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-02-01"
+            }
+          },
+          {
+            "id": "5411a5cc05a9bba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Findability/FIndings/ATC locations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ATC locations"
+            }
+          },
+          {
+            "id": "c3b379f790ce5871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dead assortment searches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dead assortment searches"
+            }
+          },
+          {
+            "id": "8bd278f23d0ea3fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/findings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "findings"
+            }
+          },
+          {
+            "id": "25711a8b0166c772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-03-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-03-12"
+            }
+          },
+          {
+            "id": "cd44489681bacb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "queries 2023.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "queries 2023"
+            }
+          },
+          {
+            "id": "ecab98582dc85000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-04-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-04-03"
+            }
+          },
+          {
+            "id": "4d85ecddba9aa55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-04-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-04-09"
+            }
+          },
+          {
+            "id": "830defc4c718f74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "app checkout rates per priority.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "app checkout rates per priority"
+            }
+          },
+          {
+            "id": "931459183d27737d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exact match searches atc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exact match searches atc"
+            }
+          },
+          {
+            "id": "4480ecb62a1df705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elastic consultant Engagement report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elastic consultant Engagement report"
+            }
+          },
+          {
+            "id": "65d30bacfb88253a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft case study on methodology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft case study on methodology"
+            }
+          },
+          {
+            "id": "cf48dd9e30f7b0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mark Scheepens.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mark Scheepens"
+            }
+          },
+          {
+            "id": "61ec7fa0194b7449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2024-06-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-06-18"
+            }
+          },
+          {
+            "id": "1247cedeb4753684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/2025-12-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-30"
+            }
+          },
+          {
+            "id": "646a4a6e0dc86d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 searches breakdown sankey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 searches breakdown sankey"
+            }
+          }
+        ],
+        "currentTab": 19
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba6c07303cbafa6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "64637eae4b74d43b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ac540ed510753a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6333c60f24dcbbac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c9be1c0218bcb1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e508e6ad7c5471f2",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473.5
+  },
+  "right": {
+    "id": "3013cd02f0e620cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8015a2e737afc1",
+        "type": "tabs",
+        "dimension": 29.120879120879128,
+        "children": [
+          {
+            "id": "21cd024c3a2c0381",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025 searches breakdown sankey.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025 searches breakdown sankey"
+            }
+          },
+          {
+            "id": "91bf99987cc7acfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Findability/Product data/Examples.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Examples"
+            }
+          },
+          {
+            "id": "bffaa4b07205df05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60d6a4f381bf75ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Findability/Product data/Examples.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Examples"
+            }
+          },
+          {
+            "id": "4cea28042abb5083",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "20ba45de0d02cf15",
+        "type": "tabs",
+        "dimension": 29.120879120879128,
+        "children": [
+          {
+            "id": "eb35ec7b609d005b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2025 searches breakdown sankey.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2025 searches breakdown sankey"
+            }
+          }
+        ]
+      },
+      {
+        "id": "940c13a671aedd9e",
+        "type": "tabs",
+        "dimension": 41.758241758241745,
+        "children": [
+          {
+            "id": "74f0177586544d74",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "notebook-navigator:Notebook Navigator": false
+    }
+  },
+  "active": "646a4a6e0dc86d98",
+  "lastOpenFiles": [
+    "Daily notes/2025-12-30.md",
+    "2025 searches breakdown sankey.md",
+    "Findability/Product data/2025-05-21.md",
+    "_attachments/Scherm­afbeelding_2025-05-23_om_12.00.01_1747994403871_0.png",
+    "_attachments/Scherm­afbeelding_2025-05-23_om_11.26.23_1747992386186_0.png",
+    "_attachments/Scherm­afbeelding_2025-05-23_om_11.04.16_1747991059462_0.png",
+    "_attachments/Scherm­afbeelding_2025-05-23_om_09.28.02_1747985285345_0.png",
+    "_attachments/Scherm­afbeelding_2025-05-21_om_19.01.21_1747846887686_0.png",
+    "_attachments/Scherm­afbeelding_2025-05-21_om_18.45.50_1747845954490_0.png",
+    "Daily notes/2025-04-09.md",
+    "Daily notes/2025-01-02.md",
+    "Daily notes/2024-03-27.md",
+    "Julia Godet.md",
+    "Daily notes/2024-06-18.md",
+    "Daily notes/2024-06-14.md",
+    "turnover per search.md",
+    "Mark Scheepens.md",
+    "Microsoft case study on methodology.md",
+    "Elastic consultant Engagement report.md",
+    "_attachments/kramp.com_-_Engagement_Report_1713512532614_0.pdf",
+    "exact match searches atc.md",
+    "_attachments/Screenshot_2024-04-17_at_12.09.09_1713348553085_0.png",
+    "app checkout rates per priority.md",
+    "_attachments/Scherm­afbeelding_2025-01-16_om_09.17.57_1737015479946_0.png",
+    "Daily notes/2024-04-09.md",
+    "HEART metrics framework.md",
+    "Daily notes/2024-04-03.md",
+    "Goodhart's Law.md",
+    "queries 2023.md",
+    "Daily notes/2024-03-12.md",
+    "_attachments/Screenshot_2024-03-12_at_19.47.32_1710269257358_0.png",
+    "Findability/Elastic/Current setup/sales pareto 2023.md",
+    "_templates/findings.md",
+    "Search turnover 2023.md",
+    "technical attribute searches.md",
+    "make model searches.md",
+    "_attachments/Screenshot_2024-02-18_at_15.35.28_1708340419892_0.png",
+    "Findings/decide_to_buy",
+    "Findings/Findability",
+    "Findings",
+    "_attachments/230428_-_Workstream_Measurability_-_Relevancy_metrics_1710424628235_0.pdf",
+    "_attachments/Findability_Painpoints_Survey_1705408625732_0.pdf",
+    "AssistantMD/Workflows",
+    "AssistantMD",
+    "Findability/FIndings/Findability_findings.base",
+    "Untitled.base"
+  ]
+}

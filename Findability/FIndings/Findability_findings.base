@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("findability/findings")
+    order:
+      - topic
+      - file.name
+      - created
+      - updated
+    sort:
+      - property: last updated
+        direction: ASC
+    columnSize:
+      note.topic: 159

@@ -1,0 +1,58 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Findability/Elastic/Current setup",
+      "tag": "#elastic/challenges",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/Elastic",
+      "tag": "#elastic",
+      "pattern": ""
+    },
+    {
+      "folder": "DBT",
+      "tag": "#dbt",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/Product data",
+      "tag": "#product_data",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/Dataset/Metrics",
+      "tag": "#findability/metrics",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/FIndings",
+      "tag": "#findability/findings",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/Dataset",
+      "tag": "#findability/dataset",
+      "pattern": ""
+    },
+    {
+      "folder": "Findability/Elastic/Resources",
+      "tag": "#elastic/resources",
+      "pattern": ""
+    },
+    {
+      "folder": "Findings/decide_to_buy",
+      "tag": "",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}
