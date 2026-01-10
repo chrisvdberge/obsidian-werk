@@ -1,6 +1,6 @@
 ---
 created: 2025-12-21T08:18
-updated: 2025-12-22T08:18
+updated: 2026-01-08T12:12
 ---
 
 ### Scope
@@ -31,3 +31,4 @@ dbt ls --resource-type model --select tag:click+
 --exclude path:models/presentation/presentation_common/metrics
 ```
 
+]
