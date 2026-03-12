@@ -1,6 +1,6 @@
 ---
 created: 2025-12-12T09:16
-updated: 2025-12-15T09:20
+updated: 2026-03-11T07:55
 ---
 
 
@@ -15,7 +15,7 @@ examples:
 	- 5L for oil
 	- 12L for couplings
 	- L/9 for gloves
-	- 3000l for lights
+	- 3000L for lights
 	- ...
 
 
