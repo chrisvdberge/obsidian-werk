@@ -1,6 +1,6 @@
 ---
 created: 2026-05-05T07:21
-updated: 2026-05-10T09:15
+updated: 2026-05-13T09:47
 ---
 Backlog:
 - [x] improve prompt laplace to prevent usage of other agents ✅ 2026-05-10
@@ -17,4 +17,5 @@ Backlog:
 - [ ] add more UX context and content
 - [ ] add product content + context
 - [ ] hoe kunnen we obsidian web clipper gebruiken icm de custom UI? 
+- [ ] add simpsons paradox to ... laplace?
 - [ ] 
