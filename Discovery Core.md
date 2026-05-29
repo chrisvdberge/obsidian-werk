@@ -1,6 +1,6 @@
 ---
 created: 2026-05-05T07:21
-updated: 2026-05-27T19:33
+updated: 2026-05-28T20:26
 ---
 Backlog:
 - [x] improve prompt laplace to prevent usage of other agents ✅ 2026-05-10
@@ -16,7 +16,7 @@ Backlog:
 - [ ] investigate if laplace should use dbt skills to 'get model details' and such. isn't this up to descartes to do? 
 - [x] create fork with broader context to support full buying journey ✅ 2026-05-27
 - [x] add a seasonality analysis to context/wiki ✅ 2026-05-27
-	- [ ] adjust the lag days. check about up and down effects of lag days
+	- [x] adjust the lag days. check about up and down effects of lag days ✅ 2026-05-28
 - [ ] add more UX context and content
 - [ ] add product content + context
 - [ ] hoe kunnen we obsidian web clipper gebruiken icm de custom UI? 
