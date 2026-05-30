@@ -1,6 +1,6 @@
 ---
 created: 2026-05-05T07:21
-updated: 2026-05-28T20:26
+updated: 2026-05-29T09:15
 ---
 Backlog:
 - [x] improve prompt laplace to prevent usage of other agents ✅ 2026-05-10
@@ -48,4 +48,11 @@ mkdir -p .opencode/.secrets
 echo "YOUR_DBT_TOKEN" > .opencode/.secrets/dbt-token
 echo "YOUR_DBT_USER_ID" > .opencode/.secrets/dbt-user-id
 echo "ES_API_TOKEN" > .opencode/.secrets/es-api-token
+```
+
+
+# awesome examples
+Laplace gets input from data-scientist that a table is empty. wants to verify with Descartes;
+```
+I need an independent verification of a claim about the experimentation data warehouse. Another analyst reported that `pres__dim__experimentation_treatment_assignments` is **completely empty** (0 rows across all experiments) due to an inverted `NOT IN` filter in the model SQL. This would block ALL experiment analyses, so I want a second pair of eyes before treating it as a confirmed data incident.
 ```
