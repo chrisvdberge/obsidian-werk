@@ -1,6 +1,6 @@
 ---
 created: 2026-05-05T07:21
-updated: 2026-05-29T09:15
+updated: 2026-06-02T17:02
 ---
 Backlog:
 - [x] improve prompt laplace to prevent usage of other agents ✅ 2026-05-10
@@ -56,3 +56,31 @@ Laplace gets input from data-scientist that a table is empty. wants to verify wi
 ```
 I need an independent verification of a claim about the experimentation data warehouse. Another analyst reported that `pres__dim__experimentation_treatment_assignments` is **completely empty** (0 rows across all experiments) due to an inverted `NOT IN` filter in the model SQL. This would block ALL experiment analyses, so I want a second pair of eyes before treating it as a confirmed data incident.
 ```
+
+comparison to looker
+- admin available
+- supressing output not possible currently
+
+meeting looker
+openai openai openai
+huge instruction prompt
+
+# test questions
+- search results question: 
+```
+If I search for 020140, why do I see product 100100 in the search results?
+```
+- responses
+	- 2026-06-02, laplace on opus 4.8
+	- ```
+	  I'll diagnose this search-relevance question. First, let me classify the query: `020140` is an item/product ID (numeric), so this is language-independent — I can delegate to @argus immediately without asking for a market.
+
+[
+
+](https://24672-ws-christian-van-den-berge.cluster-hsrqhqiztrawsr66n3eyoorfya.cloudworkstations.dev/L2hvbWUvdXNlci9nY3MvcHJvamVjdHMvZmluZGFiaWxpdHktb3BlbmNvZGUtYWdlbnRpYy1wcm9kdWN0LWRpc2NvdmVyeQ/session/ses_17727d8daffec450yI8cH3Z8Wv)
+
+**Searching `020140` returns product 100100 because product 100100 lists `020140` as a number it replaces — `020140` is an old/superseded article number that 100100 took over — and also as a competitor cross-reference. So searching the old number correctly surfaces its Kramp replacement. This is intended behavior, not a search bug.**
+
+One thing worth a closer look (a data-quality note, not a search problem): product 100100 carries an unusually long cross-reference list that includes obvious test/placeholder entries (e.g. `TestStopIt`, `ws 100100`). The `020140` match itself is legitimate, but if you want to verify the broader mapping is clean, that's a question for the data owners of the product's cross-reference enrichment — not a search-engine change.
+	  ```
+	  
